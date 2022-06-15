@@ -1,0 +1,52 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	
+	margin: 0px;
+	display: block;
+	position: fixed;
+	z-index: 999;
+	top: 0em;
+	
+}
+div.title{
+	margin: 10px;
+	
+	
+}
+div.image img {
+  width: 250px;
+  height: auto;
+}
+
+div.header {
+	
+	 width: 70%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: auto; /* for centering 3 blocks in the center */
+  /* justify-content: space-between; for space in between */ 
+}
+div.content{
+	
+	 width: 70%;
+  margin: 0 auto;
+  display: flex;
+   justify-content: auto
+  
+	
+}
+div.head{
+	
+	 width: 70%;
+  margin: 0 auto;
+  display: flex;
+   justify-content: center
+  
+	
+}
